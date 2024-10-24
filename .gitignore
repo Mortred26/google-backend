@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Temporary files
+temp/
+tmp/
+.cache/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# IDE files
+.idea/
+.vscode/
+
+# Ignore package-lock.json if you want to ignore lock files
+# package-lock.json
